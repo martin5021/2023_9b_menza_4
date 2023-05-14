@@ -31,3 +31,14 @@ hr{
         display: none;
     }
 }
+/*Pc navbar */
+@media only screen and (-width: 721px) {
+    li{
+        display: inline;
+        list-style: none;
+    }
+
+    
+}
+
+/*Pc navbar */
