@@ -39,8 +39,7 @@ KEDD:
 
     Leves: Tárkonyos csirkeraguleves
 
-                Hozzávalók: háztartási keksz
-                            napraforgó olaj
+                Hozzávalók: napraforgó olaj
                             sárgarépa
                             fehérrépa
                             karalábé
@@ -49,7 +48,8 @@ KEDD:
                             zöldborsó
                             tárkony
                             főzőtejszín
-                            1citromlé
+                            citromlé
+                            csirkemellfilé
                             
 
     Főétel: Bácskai rizses hús
@@ -75,6 +75,7 @@ KEDD:
                             tej
                             rumaroma
                             kókuszreszelék
+                            háztartási keksz
 
 
 SZERDA:
