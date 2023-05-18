@@ -43,10 +43,12 @@ hr{
 
 /*Pc navbar */
 
+
 .hetfo{
     margin-left: 20px;
 }
 
+/*Hetfoi leves*/
 .hleves{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     transition: 0.3s;
@@ -57,13 +59,15 @@ hr{
 }
 
 .hleves img{
-    width: 100%;
+    width: 90%;
     border-radius: 3%;
+    margin-left: 5%;
 }
 
 .hleves p{
     font-weight: bold;
     text-decoration: underline;
+    font-size: 15pt;
 }
 
 .hleves h4{
@@ -87,3 +91,50 @@ hr{
 .card1{
     padding: 2px 16px;
 }
+/*Hetfoi leves*/
+
+
+/*Hetfoi foetel*/
+.hfoetel{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 20%;
+    border-radius: 10%;
+    margin-left: 100px;
+    background-color: rgb(240, 222, 205);
+}
+
+.hfoetel img{
+    width: 90%;
+    border-radius: 3%;
+    margin-left: 5%;
+}
+
+.hfoetel p{
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 15pt;
+}
+
+.hfoetel h4{
+    text-align: center;
+}
+
+.hfoetel h3{
+    text-align: center;
+    font-size: 22pt;
+}
+
+.hfoetel li{
+    font-size: 15pt;
+}
+
+.hfoetel:hover{
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    transform: scale(1.05);
+}
+
+.card2{
+    padding: 2px 16px;
+}
+/*Hetfoi foetel*/
