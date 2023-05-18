@@ -45,8 +45,15 @@ hr{
 
 
 .hetfo{
-    margin-left: 20px;
+    text-align: center;
 }
+
+.hmenu{
+
+    width: 100%;
+    background: linear-gradient(135deg, rgb(186, 221, 221), rgb(169, 182, 221) 30%, rgb(200, 228, 220));
+}
+
 
 /*Hetfoi leves*/
 .hleves{
@@ -54,8 +61,12 @@ hr{
     transition: 0.3s;
     width: 20%;
     border-radius: 10%;
-    margin-left: 100px;
+    margin-left: 190px;
     background-color: rgb(240, 222, 205);
+
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
 }
 
 .hleves img{
@@ -100,8 +111,12 @@ hr{
     transition: 0.3s;
     width: 20%;
     border-radius: 10%;
-    margin-left: 100px;
+    margin-left: 200px;
     background-color: rgb(240, 222, 205);
+
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
 }
 
 .hfoetel img{
@@ -146,8 +161,12 @@ hr{
     transition: 0.3s;
     width: 20%;
     border-radius: 10%;
-    margin-left: 100px;
+    margin-left: 200px;
     background-color: rgb(240, 222, 205);
+
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
 }
 
 .hdesszert img{
