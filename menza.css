@@ -1,6 +1,12 @@
 
 body{
     background-color: #eaeaea;
+    background-image: url(képek/34738269_2659143_15b83f9bdd92f6d22d03959e17f17915_wm.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
 }
 header{
     background-color: #937B63;
@@ -45,15 +51,14 @@ hr{
 
 
 .hetfo{
-    text-align: center;
+    text-align: left;
+
 }
 
 .hmenu{
-
     width: 100%;
     background: linear-gradient(135deg, rgb(186, 221, 221), rgb(169, 182, 221) 30%, rgb(200, 228, 220));
 }
-
 
 /*Hetfoi leves*/
 .hleves{
@@ -75,12 +80,6 @@ hr{
     margin-left: 5%;
 }
 
-.hleves p{
-    font-weight: bold;
-    text-decoration: underline;
-    font-size: 15pt;
-}
-
 .hleves h4{
     text-align: center;
 }
@@ -88,10 +87,6 @@ hr{
 .hleves h3{
     text-align: center;
     font-size: 22pt;
-}
-
-.hleves li{
-    font-size: 15pt;
 }
 
 .hleves:hover{
@@ -125,12 +120,6 @@ hr{
     margin-left: 5%;
 }
 
-.hfoetel p{
-    font-weight: bold;
-    text-decoration: underline;
-    font-size: 15pt;
-}
-
 .hfoetel h4{
     text-align: center;
 }
@@ -138,10 +127,6 @@ hr{
 .hfoetel h3{
     text-align: center;
     font-size: 22pt;
-}
-
-.hfoetel li{
-    font-size: 15pt;
 }
 
 .hfoetel:hover{
@@ -175,12 +160,6 @@ hr{
     margin-left: 5%;
 }
 
-.hdesszert p{
-    font-weight: bold;
-    text-decoration: underline;
-    font-size: 15pt;
-}
-
 .hdesszert h4{
     text-align: center;
 }
@@ -188,10 +167,6 @@ hr{
 .hdesszert h3{
     text-align: center;
     font-size: 22pt;
-}
-
-.hdesszert li{
-    font-size: 15pt;
 }
 
 .hdesszert:hover{
@@ -203,3 +178,128 @@ hr{
     padding: 2px 16px;
 }
 /*Hetfoi desszert*/
+
+.kmenu{
+    width: 100%;
+    background: linear-gradient(135deg, rgb(186, 221, 221), rgb(169, 182, 221) 30%, rgb(200, 228, 220));
+}
+
+
+/*Keddi leves*/
+.kleves{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 20%;
+    border-radius: 10%;
+    margin-left: 190px;
+    background-color: rgb(240, 222, 205);
+
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+}
+
+.kleves img{
+    width: 90%;
+    border-radius: 3%;
+    margin-left: 5%;
+}
+
+.kleves h4{
+    text-align: center;
+}
+
+.kleves h3{
+    text-align: center;
+    font-size: 22pt;
+}
+
+.kleves:hover{
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    transform: scale(1.05);
+}
+
+.card4{
+    padding: 2px 16px;
+}
+/*Keddi leves*/
+
+
+/*Keddi foetel*/
+.kfoetel{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 20%;
+    border-radius: 10%;
+    margin-left: 190px;
+    background-color: rgb(240, 222, 205);
+
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+}
+
+.kfoetel img{
+    width: 90%;
+    border-radius: 3%;
+    margin-left: 5%;
+}
+
+.kfoetel h4{
+    text-align: center;
+}
+
+.kfoetel h3{
+    text-align: center;
+    font-size: 22pt;
+}
+
+.kfoetel:hover{
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    transform: scale(1.05);
+}
+
+.card5{
+    padding: 2px 16px;
+}
+/*Keddi foetel*/
+
+
+/*Kdesszert*/
+.kdesszert{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 20%;
+    border-radius: 10%;
+    margin-left: 200px;
+    background-color: rgb(240, 222, 205);
+
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+}
+
+.kdesszert img{
+    width: 90%;
+    border-radius: 3%;
+    margin-left: 5%;
+}
+
+.kdesszert h4{
+    text-align: center;
+}
+
+.kdesszert h3{
+    text-align: center;
+    font-size: 22pt;
+}
+
+.kdesszert:hover{
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    transform: scale(1.05);
+}
+
+.card6{
+    padding: 2px 16px;
+}
+/*Kdesszert*/
