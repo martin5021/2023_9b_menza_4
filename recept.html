@@ -9,70 +9,51 @@
     <link rel="stylesheet" type="text/css" href="menza.css">
 </head>
 <body>
+
     <header>
+      <div class="top-container">
         <h1 class="center">Mechwart Menza</h1>
         <h2 class="center">Debreceni SZC Mechwart András Gépipari és Informatikai Technikum menza oldala</h2>
-        <hr>
-<!--Navbar-->
-<div id="mobilnav">
-<nav class="navbar navbar-light navbar-1 white" id="navbar">
+      </div>
 
-    <!-- Navbar brand -->
-    <a class="navbar-brand" href="#">Menü</a>
+      <div class="menusor" id="myMenusor">
+          <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <a class="navbar-brand" href="#">Menü</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+          
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+              <ul class="navbar-nav mr-auto">
+                <li class="nav-item active">
+                  <a class="nav-link" href="#">Kezdőlap</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#">Receptek</a>
+                </li>
+                <li class="nav-item dropdown">
+                  <a class="nav-link" href="#">Kapcsoaltok</a>
+                </li>
+              </ul>
+            </div>
+      </div>
 
-    <!-- Collapse button -->
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent15"
-      aria-controls="navbarSupportedContent15" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+<script>
+  window.onscroll = function() {myFunction()}
 
-    <!-- Collapsible content -->
-    <div class="collapse navbar-collapse" id="navbarSupportedContent15">
-  
-      <!-- Links -->
-      <ul class="navbar-nav mr-auto">
-        <li class="nav-item active">
-          <a class="nav-link" href="#">Kezdőlap</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Heti menü</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Receptek</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link" href="#">Kapcsolat</a>
-          </li>
-      </ul>
-      <!-- Links -->
-  
-    </div>
-    <!-- Collapsible content -->
-  
-  </nav>
-  <!--/.Navbar-->
-</div>
-<div id="pcnav">
-    <ul class="pcnavul">
-        <li class="pcil">
-          <a class="" href="#">Kezdőlap</a>
-        </li>
-        <li class="pcil">
-          <a class="" href="#">Heti menü</a>
-        </li>
-        <li class="pcil">
-          <a class="" href="#">Receptek</a>
-        </li>
-        <li class="pcil">
-            <a class="" href="#">Kapcsolat</a>
-          </li>
-      </ul>
-</div>
-    </header>
-    <section>
-        <img src="/képek/34738269_2659143_15b83f9bdd92f6d22d03959e17f17915_wm.jpg" alt="Menzás kép" id="menzaskep">
-    </section>
+  var menusor = document.getElementById("myMenusor")
+  var sticky = menusor.offsetTop;
 
+  function myFunction() {
+    if (window.pageYOffset > sticky) {
+      menusor.classList.add("sticky");
+    }
 
-
+    else {
+      menusor.classList.remove("sticky");
+    }
+  }
+</script>
 
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>

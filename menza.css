@@ -6,6 +6,7 @@ body{
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
+    margin: 0;
 
 }
 header{
@@ -50,6 +51,17 @@ hr{
 /*Pc navbar */
 
 
+.sticky{
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.menusor{
+    background-color: aqua;
+    border: 1px solid black;
+}
+
 .hetfo{
     text-align: left;
 
@@ -58,6 +70,8 @@ hr{
 .hmenu{
     width: 100%;
     background: linear-gradient(135deg, rgb(186, 221, 221), rgb(169, 182, 221) 30%, rgb(200, 228, 220));
+    margin-top: 100px;
+    margin-bottom: 100px;
 }
 
 /*Hetfoi leves*/
@@ -181,7 +195,9 @@ hr{
 
 .kmenu{
     width: 100%;
-    background: linear-gradient(135deg, rgb(186, 221, 221), rgb(169, 182, 221) 30%, rgb(200, 228, 220));
+    background-color: rgba(219, 219, 226, 0.23);
+    margin-top: 100px;
+    margin-bottom: 100px;
 }
 
 /*Keddi leves*/
@@ -306,6 +322,8 @@ hr{
 .szmenu{
     width: 100%;
     background: linear-gradient(135deg, rgb(186, 221, 221), rgb(169, 182, 221) 30%, rgb(200, 228, 220));
+    margin-top: 100px;
+    margin-bottom: 100px;
 }
 
 /*Szerdai leves*/
@@ -430,6 +448,8 @@ hr{
 .csmenu{
     width: 100%;
     background: linear-gradient(135deg, rgb(186, 221, 221), rgb(169, 182, 221) 30%, rgb(200, 228, 220));
+    margin-top: 100px;
+    margin-bottom: 100px;
 }
 
 /*Csutortoki leves*/
@@ -554,6 +574,8 @@ hr{
 .pmenu{
     width: 100%;
     background: linear-gradient(135deg, rgb(186, 221, 221), rgb(169, 182, 221) 30%, rgb(200, 228, 220));
+    margin-top: 100px;
+    margin-bottom: 100px;
 }
 
 /*Penteki leves*/
@@ -674,5 +696,3 @@ hr{
     padding: 2px 16px;
 }
 /*Penteki desszert*/
-
-
