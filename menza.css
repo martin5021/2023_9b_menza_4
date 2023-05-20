@@ -57,19 +57,17 @@ hr{
     width: 100%;
 }
 
-.menusor{
-    background-color: aqua;
-    border: 1px solid black;
-}
 
 .hetfo{
-    text-align: left;
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
 
 }
 
 .hmenu{
     width: 100%;
-    background: linear-gradient(135deg, rgb(186, 221, 221), rgb(169, 182, 221) 30%, rgb(200, 228, 220));
+    background-color: rgba(219, 219, 226, 0.6);
     margin-top: 100px;
     margin-bottom: 100px;
 }
@@ -120,7 +118,7 @@ hr{
     transition: 0.3s;
     width: 20%;
     border-radius: 10%;
-    margin-left: 200px;
+    margin-left: 190px;
     background-color: rgb(240, 222, 205);
 
     display: inline-block;
@@ -160,7 +158,7 @@ hr{
     transition: 0.3s;
     width: 20%;
     border-radius: 10%;
-    margin-left: 200px;
+    margin-left: 190px;
     background-color: rgb(240, 222, 205);
 
     display: inline-block;
@@ -193,9 +191,15 @@ hr{
 }
 /*Hetfoi desszert*/
 
+.kedd{
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+}
+
 .kmenu{
     width: 100%;
-    background-color: rgba(219, 219, 226, 0.23);
+    background-color: rgba(219, 219, 226, 0.6);
     margin-top: 100px;
     margin-bottom: 100px;
 }
@@ -286,7 +290,7 @@ hr{
     transition: 0.3s;
     width: 20%;
     border-radius: 10%;
-    margin-left: 200px;
+    margin-left: 190px;
     background-color: rgb(240, 222, 205);
 
     display: inline-block;
@@ -319,9 +323,15 @@ hr{
 }
 /*Kdesszert*/
 
+.szerda{
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+}
+
 .szmenu{
     width: 100%;
-    background: linear-gradient(135deg, rgb(186, 221, 221), rgb(169, 182, 221) 30%, rgb(200, 228, 220));
+    background-color: rgba(219, 219, 226, 0.6);
     margin-top: 100px;
     margin-bottom: 100px;
 }
@@ -412,7 +422,7 @@ hr{
     transition: 0.3s;
     width: 20%;
     border-radius: 10%;
-    margin-left: 200px;
+    margin-left: 190px;
     background-color: rgb(240, 222, 205);
 
     display: inline-block;
@@ -445,9 +455,16 @@ hr{
 }
 /*Szerdai desszert*/
 
+.csutortok{
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+    margin: 0;
+}
+
 .csmenu{
     width: 100%;
-    background: linear-gradient(135deg, rgb(186, 221, 221), rgb(169, 182, 221) 30%, rgb(200, 228, 220));
+    background-color: rgba(219, 219, 226, 0.6);
     margin-top: 100px;
     margin-bottom: 100px;
 }
@@ -458,7 +475,7 @@ hr{
     transition: 0.3s;
     width: 20%;
     border-radius: 10%;
-    margin-left: 190px;
+    margin-left: 140px;
     background-color: rgb(240, 222, 205);
 
     display: inline-block;
@@ -571,9 +588,15 @@ hr{
 }
 /*Csutortoki desszert*/
 
+.pentek{
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+}
+
 .pmenu{
     width: 100%;
-    background: linear-gradient(135deg, rgb(186, 221, 221), rgb(169, 182, 221) 30%, rgb(200, 228, 220));
+    background-color: rgba(219, 219, 226, 0.6);
     margin-top: 100px;
     margin-bottom: 100px;
 }
