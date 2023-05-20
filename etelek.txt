@@ -176,6 +176,7 @@ PÉNTEK:
                             bors
                             csigatészta
                             víz
+                            
     Főétel: Rántott csirkemell, burgonya püré
 
                 Hozzávalók: hús

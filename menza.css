@@ -550,3 +550,129 @@ hr{
     padding: 2px 16px;
 }
 /*Csutortoki desszert*/
+
+.pmenu{
+    width: 100%;
+    background: linear-gradient(135deg, rgb(186, 221, 221), rgb(169, 182, 221) 30%, rgb(200, 228, 220));
+}
+
+/*Penteki leves*/
+.pleves{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 20%;
+    border-radius: 10%;
+    margin-left: 190px;
+    background-color: rgb(240, 222, 205);
+
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+}
+
+.pleves img{
+    width: 90%;
+    border-radius: 3%;
+    margin-left: 5%;
+}
+
+.pleves h4{
+    text-align: center;
+}
+
+.pleves h3{
+    text-align: center;
+    font-size: 22pt;
+}
+
+.pleves:hover{
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    transform: scale(1.05);
+}
+
+.card13{
+    padding: 2px 16px;
+}
+/*Penteki leves*/
+
+
+/*Penteki foetel*/
+.pfoetel{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 20%;
+    border-radius: 10%;
+    margin-left: 190px;
+    background-color: rgb(240, 222, 205);
+
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+}
+
+.pfoetel img{
+    width: 90%;
+    border-radius: 3%;
+    margin-left: 5%;
+}
+
+.pfoetel h4{
+    text-align: center;
+}
+
+.pfoetel h3{
+    text-align: center;
+    font-size: 22pt;
+}
+
+.pfoetel:hover{
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    transform: scale(1.05);
+}
+
+.card14{
+    padding: 2px 16px;
+}
+/*Penteki foetel*/
+
+
+/*Penteki desszert*/
+.pdesszert{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 20%;
+    border-radius: 10%;
+    margin-left: 200px;
+    background-color: rgb(240, 222, 205);
+
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+}
+
+.pdesszert img{
+    width: 90%;
+    border-radius: 3%;
+    margin-left: 5%;
+}
+
+.pdesszert h4{
+    text-align: center;
+}
+
+.pdesszert h3{
+    text-align: center;
+    font-size: 22pt;
+}
+
+.pdesszert:hover{
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    transform: scale(1.05);
+}
+
+.card15{
+    padding: 2px 16px;
+}
+/*Penteki desszert*/
+
+
