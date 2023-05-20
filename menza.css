@@ -426,3 +426,127 @@ hr{
     padding: 2px 16px;
 }
 /*Szerdai desszert*/
+
+.csmenu{
+    width: 100%;
+    background: linear-gradient(135deg, rgb(186, 221, 221), rgb(169, 182, 221) 30%, rgb(200, 228, 220));
+}
+
+/*Csutortoki leves*/
+.csleves{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 20%;
+    border-radius: 10%;
+    margin-left: 190px;
+    background-color: rgb(240, 222, 205);
+
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+}
+
+.csleves img{
+    width: 90%;
+    border-radius: 3%;
+    margin-left: 5%;
+}
+
+.csleves h4{
+    text-align: center;
+}
+
+.csleves h3{
+    text-align: center;
+    font-size: 22pt;
+}
+
+.csleves:hover{
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    transform: scale(1.05);
+}
+
+.card10{
+    padding: 2px 16px;
+}
+/*Csutortoki leves*/
+
+
+/*Csutortoki foetel*/
+.csfoetel{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 20%;
+    border-radius: 10%;
+    margin-left: 190px;
+    background-color: rgb(240, 222, 205);
+
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+}
+
+.csfoetel img{
+    width: 90%;
+    border-radius: 3%;
+    margin-left: 5%;
+}
+
+.csfoetel h4{
+    text-align: center;
+}
+
+.csfoetel h3{
+    text-align: center;
+    font-size: 22pt;
+}
+
+.csfoetel:hover{
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    transform: scale(1.05);
+}
+
+.card11{
+    padding: 2px 16px;
+}
+/*Csutortoki foetel*/
+
+
+/*Csutortoki desszert*/
+.csdesszert{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 20%;
+    border-radius: 10%;
+    margin-left: 200px;
+    background-color: rgb(240, 222, 205);
+
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+}
+
+.csdesszert img{
+    width: 90%;
+    border-radius: 3%;
+    margin-left: 5%;
+}
+
+.csdesszert h4{
+    text-align: center;
+}
+
+.csdesszert h3{
+    text-align: center;
+    font-size: 22pt;
+}
+
+.csdesszert:hover{
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    transform: scale(1.05);
+}
+
+.card12{
+    padding: 2px 16px;
+}
+/*Csutortoki desszert*/
