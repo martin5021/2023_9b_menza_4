@@ -184,7 +184,6 @@ hr{
     background: linear-gradient(135deg, rgb(186, 221, 221), rgb(169, 182, 221) 30%, rgb(200, 228, 220));
 }
 
-
 /*Keddi leves*/
 .kleves{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
@@ -303,3 +302,127 @@ hr{
     padding: 2px 16px;
 }
 /*Kdesszert*/
+
+.szmenu{
+    width: 100%;
+    background: linear-gradient(135deg, rgb(186, 221, 221), rgb(169, 182, 221) 30%, rgb(200, 228, 220));
+}
+
+/*Szerdai leves*/
+.szleves{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 20%;
+    border-radius: 10%;
+    margin-left: 190px;
+    background-color: rgb(240, 222, 205);
+
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+}
+
+.szleves img{
+    width: 90%;
+    border-radius: 3%;
+    margin-left: 5%;
+}
+
+.szleves h4{
+    text-align: center;
+}
+
+.szleves h3{
+    text-align: center;
+    font-size: 22pt;
+}
+
+.szleves:hover{
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    transform: scale(1.05);
+}
+
+.card7{
+    padding: 2px 16px;
+}
+/*Szerdai leves*/
+
+
+/*Szerdai foetel*/
+.szfoetel{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 20%;
+    border-radius: 10%;
+    margin-left: 190px;
+    background-color: rgb(240, 222, 205);
+
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+}
+
+.szfoetel img{
+    width: 90%;
+    border-radius: 3%;
+    margin-left: 5%;
+}
+
+.szfoetel h4{
+    text-align: center;
+}
+
+.szfoetel h3{
+    text-align: center;
+    font-size: 22pt;
+}
+
+.szfoetel:hover{
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    transform: scale(1.05);
+}
+
+.card8{
+    padding: 2px 16px;
+}
+/*Szerdai foetel*/
+
+
+/*Szerdai desszert*/
+.szdesszert{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 20%;
+    border-radius: 10%;
+    margin-left: 200px;
+    background-color: rgb(240, 222, 205);
+
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+}
+
+.szdesszert img{
+    width: 90%;
+    border-radius: 3%;
+    margin-left: 5%;
+}
+
+.szdesszert h4{
+    text-align: center;
+}
+
+.szdesszert h3{
+    text-align: center;
+    font-size: 22pt;
+}
+
+.szdesszert:hover{
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    transform: scale(1.05);
+}
+
+.card9{
+    padding: 2px 16px;
+}
+/*Szerdai desszert*/
