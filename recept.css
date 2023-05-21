@@ -87,6 +87,10 @@ hr{
     margin-bottom: 100px;
 }
 
+.kep{
+    background-color: #000000;
+}
+
 /*Hetfoi leves*/
 .hleves{
     background-image: url(fokhagymakremleves.jpg);
@@ -685,9 +689,10 @@ div.transbox li{
     background-size: cover;
     background-position: center;
     background-attachment: scroll;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat;   
     margin: 0;
     margin-bottom: 200px;
+    margin-top: 200px;
 }
 
 div.transbox{
