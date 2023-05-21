@@ -89,7 +89,7 @@ hr{
     background-image: url(fokhagymakremleves.jpg);
     background-size: cover;
     background-position: center;
-    background-attachment: fixed;
+    background-attachment: scroll;
     background-repeat: no-repeat;
     margin: 0;
 
