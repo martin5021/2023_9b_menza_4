@@ -429,3 +429,182 @@ div.transbox li{
     color: #000000;
 }
 /*Keddi desszert*/
+
+
+
+.szerda{
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle
+}
+
+.szmenu{
+    width: 100%;
+    background-color: rgb(226, 198, 137);
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+/*Szerdai leves*/
+.szleves{
+    background-image: url(babgulyas.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    margin: 0;
+    margin-bottom: 200px;
+}
+
+div.transbox{
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+    opacity: 0.6;
+}
+
+div.transbox h3{
+    margin: 10px;
+    font-weight: bold;
+    color: #000000;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 22pt;
+}
+
+div.transbox h4{
+    font-weight: bold;
+    color: #000000;
+    text-align: center;
+}
+
+div.transbox p{
+    margin: 10px;
+    font-weight: bold;
+    color: #000000;
+    text-decoration: underline;
+}
+
+div.transbox ul{
+    font-weight: bold;
+    color: #000000;
+}
+
+div.transbox ol{
+    font-weight: bold;
+    color: #000000;
+}
+
+div.transbox li{
+    font-weight: bold;
+    color: #000000;
+}
+/*Szerdai leves*/
+
+/*Szerdai foetel*/
+.szfoetel{
+    background-image: url(mac\ and\ cheese.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    margin: 0;
+    margin-bottom: 200px;
+}
+
+div.transbox{
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+    opacity: 0.6;
+}
+
+div.transbox h3{
+    margin: 10px;
+    font-weight: bold;
+    color: #000000;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 22pt;
+}
+
+div.transbox h4{
+    font-weight: bold;
+    color: #000000;
+    text-align: center;
+}
+
+div.transbox p{
+    margin: 10px;
+    font-weight: bold;
+    color: #000000;
+    text-decoration: underline;
+}
+
+div.transbox ul{
+    font-weight: bold;
+    color: #000000;
+}
+
+div.transbox ol{
+    font-weight: bold;
+    color: #000000;
+}
+
+div.transbox li{
+    font-weight: bold;
+    color: #000000;
+}
+/*Szerdai foetel*/
+
+/*Szerdai desszert*/
+.szdesszert{
+    background-image: url(fank.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    margin: 0;
+}
+
+div.transbox{
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+    opacity: 0.6;
+}
+
+div.transbox h3{
+    margin: 10px;
+    font-weight: bold;
+    color: #000000;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 22pt;
+}
+
+div.transbox h4{
+    font-weight: bold;
+    color: #000000;
+    text-align: center;
+}
+
+div.transbox p{
+    margin: 10px;
+    font-weight: bold;
+    color: #000000;
+    text-decoration: underline;
+}
+
+div.transbox ul{
+    font-weight: bold;
+    color: #000000;
+}
+
+div.transbox ol{
+    font-weight: bold;
+    color: #000000;
+}
+
+div.transbox li{
+    font-weight: bold;
+    color: #000000;
+}
+/*Szerdai desszert*/
