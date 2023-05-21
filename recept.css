@@ -54,9 +54,12 @@ hr{
 }
 
 /*Pc navbar */
-
+.menusor{
+    z-index: 100;
+}
 .design{
     background-color: rgb(197, 179, 130);
+    
 }
 
 .sticky{
@@ -89,9 +92,10 @@ hr{
     background-image: url(fokhagymakremleves.jpg);
     background-size: cover;
     background-position: center;
-    background-attachment: fixed;
+    background-attachment: scroll;
     background-repeat: no-repeat;
     margin: 0;
+    
 
 }
 
@@ -99,6 +103,7 @@ div.transbox{
     background-color: rgb(255, 255, 255);
     border: 1px solid black;
     opacity: 0.6;
+    
 }
 
 div.transbox h3{
