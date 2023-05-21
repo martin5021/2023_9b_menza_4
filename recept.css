@@ -72,11 +72,12 @@ hr{
     margin-bottom: 20px;
 }
 
+
+
 .hetfo{
     display: inline-block;
     padding: 1rem 1rem;
     vertical-align: middle;
-
 }
 
 .hmenu{
@@ -86,6 +87,9 @@ hr{
     margin-bottom: 100px;
 }
 
+.kep{
+    background-color: #000000;
+}
 
 /*Hetfoi leves*/
 .hleves{
@@ -95,15 +99,13 @@ hr{
     background-attachment: scroll;
     background-repeat: no-repeat;
     margin: 0;
-    
-
+    margin-bottom: 200px;
 }
 
 div.transbox{
     background-color: rgb(255, 255, 255);
     border: 1px solid black;
     opacity: 0.6;
-    
 }
 
 div.transbox h3{
@@ -142,6 +144,830 @@ div.transbox li{
     font-weight: bold;
     color: #000000;
 }
-
 /*Hetfoi leves*/
 
+/*Hetfoi foetel*/
+.hfoetel{
+    background-image: url(kinai\ szezanmagos\ csirke.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    margin: 0;
+    margin-bottom: 200px;
+}
+
+div.transbox{
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+    opacity: 0.6;
+}
+
+div.transbox h3{
+    margin: 10px;
+    font-weight: bold;
+    color: #000000;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 22pt;
+}
+
+div.transbox h4{
+    font-weight: bold;
+    color: #000000;
+    text-align: center;
+}
+
+div.transbox p{
+    margin: 10px;
+    font-weight: bold;
+    color: #000000;
+    text-decoration: underline;
+}
+
+div.transbox ul{
+    font-weight: bold;
+    color: #000000;
+}
+
+div.transbox ol{
+    font-weight: bold;
+    color: #000000;
+}
+
+div.transbox li{
+    font-weight: bold;
+    color: #000000;
+}
+/*Hetfoi foetel*/
+
+/*Hetfoi desszert*/
+.hdesszert{
+    background-image: url(muffin.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    margin: 0;
+}
+
+div.transbox{
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+    opacity: 0.6;
+}
+
+div.transbox h3{
+    margin: 10px;
+    font-weight: bold;
+    color: #000000;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 22pt;
+}
+
+div.transbox h4{
+    font-weight: bold;
+    color: #000000;
+    text-align: center;
+}
+
+div.transbox p{
+    margin: 10px;
+    font-weight: bold;
+    color: #000000;
+    text-decoration: underline;
+}
+
+div.transbox ul{
+    font-weight: bold;
+    color: #000000;
+}
+
+div.transbox ol{
+    font-weight: bold;
+    color: #000000;
+}
+
+div.transbox li{
+    font-weight: bold;
+    color: #000000;
+}
+/*Hetfoi desszert*/
+
+
+
+.kedd{
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+}
+
+.kmenu{
+    width: 100%;
+    background-color: rgb(226, 198, 137);
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+/*Keddi leves*/
+.kleves{
+    background-image: url(tarkonyos-csirkeraguleves.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    margin: 0;
+    margin-bottom: 200px;
+}
+
+div.transbox{
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+    opacity: 0.6;
+}
+
+div.transbox h3{
+    margin: 10px;
+    font-weight: bold;
+    color: #000000;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 22pt;
+}
+
+div.transbox h4{
+    font-weight: bold;
+    color: #000000;
+    text-align: center;
+}
+
+div.transbox p{
+    margin: 10px;
+    font-weight: bold;
+    color: #000000;
+    text-decoration: underline;
+}
+
+div.transbox ul{
+    font-weight: bold;
+    color: #000000;
+}
+
+div.transbox ol{
+    font-weight: bold;
+    color: #000000;
+}
+
+div.transbox li{
+    font-weight: bold;
+    color: #000000;
+}
+/*Keddi leves*/
+
+/*Kedi foetel*/
+.kfoetel{
+    background-image: url(bacskai-rizses-hus.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    margin: 0;
+    margin-bottom: 200px;
+}
+
+div.transbox{
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+    opacity: 0.6;
+}
+
+div.transbox h3{
+    margin: 10px;
+    font-weight: bold;
+    color: #000000;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 22pt;
+}
+
+div.transbox h4{
+    font-weight: bold;
+    color: #000000;
+    text-align: center;
+}
+
+div.transbox p{
+    margin: 10px;
+    font-weight: bold;
+    color: #000000;
+    text-decoration: underline;
+}
+
+div.transbox ul{
+    font-weight: bold;
+    color: #000000;
+}
+
+div.transbox ol{
+    font-weight: bold;
+    color: #000000;
+}
+
+div.transbox li{
+    font-weight: bold;
+    color: #000000;
+}
+/*Kedi foetel*/
+
+/*Keddi desszert*/
+.kdesszert{
+    background-image: url(kokuszgolyo.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    margin: 0;
+}
+
+div.transbox{
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+    opacity: 0.6;
+}
+
+div.transbox h3{
+    margin: 10px;
+    font-weight: bold;
+    color: #000000;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 22pt;
+}
+
+div.transbox h4{
+    font-weight: bold;
+    color: #000000;
+    text-align: center;
+}
+
+div.transbox p{
+    margin: 10px;
+    font-weight: bold;
+    color: #000000;
+    text-decoration: underline;
+}
+
+div.transbox ul{
+    font-weight: bold;
+    color: #000000;
+}
+
+div.transbox ol{
+    font-weight: bold;
+    color: #000000;
+}
+
+div.transbox li{
+    font-weight: bold;
+    color: #000000;
+}
+/*Keddi desszert*/
+
+
+
+.szerda{
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle
+}
+
+.szmenu{
+    width: 100%;
+    background-color: rgb(226, 198, 137);
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+/*Szerdai leves*/
+.szleves{
+    background-image: url(babgulyas.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    margin: 0;
+    margin-bottom: 200px;
+}
+
+div.transbox{
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+    opacity: 0.6;
+}
+
+div.transbox h3{
+    margin: 10px;
+    font-weight: bold;
+    color: #000000;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 22pt;
+}
+
+div.transbox h4{
+    font-weight: bold;
+    color: #000000;
+    text-align: center;
+}
+
+div.transbox p{
+    margin: 10px;
+    font-weight: bold;
+    color: #000000;
+    text-decoration: underline;
+}
+
+div.transbox ul{
+    font-weight: bold;
+    color: #000000;
+}
+
+div.transbox ol{
+    font-weight: bold;
+    color: #000000;
+}
+
+div.transbox li{
+    font-weight: bold;
+    color: #000000;
+}
+/*Szerdai leves*/
+
+/*Szerdai foetel*/
+.szfoetel{
+    background-image: url(mac\ and\ cheese.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    margin: 0;
+    margin-bottom: 200px;
+}
+
+div.transbox{
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+    opacity: 0.6;
+}
+
+div.transbox h3{
+    margin: 10px;
+    font-weight: bold;
+    color: #000000;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 22pt;
+}
+
+div.transbox h4{
+    font-weight: bold;
+    color: #000000;
+    text-align: center;
+}
+
+div.transbox p{
+    margin: 10px;
+    font-weight: bold;
+    color: #000000;
+    text-decoration: underline;
+}
+
+div.transbox ul{
+    font-weight: bold;
+    color: #000000;
+}
+
+div.transbox ol{
+    font-weight: bold;
+    color: #000000;
+}
+
+div.transbox li{
+    font-weight: bold;
+    color: #000000;
+}
+/*Szerdai foetel*/
+
+/*Szerdai desszert*/
+.szdesszert{
+    background-image: url(fank.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    margin: 0;
+}
+
+div.transbox{
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+    opacity: 0.6;
+}
+
+div.transbox h3{
+    margin: 10px;
+    font-weight: bold;
+    color: #000000;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 22pt;
+}
+
+div.transbox h4{
+    font-weight: bold;
+    color: #000000;
+    text-align: center;
+}
+
+div.transbox p{
+    margin: 10px;
+    font-weight: bold;
+    color: #000000;
+    text-decoration: underline;
+}
+
+div.transbox ul{
+    font-weight: bold;
+    color: #000000;
+}
+
+div.transbox ol{
+    font-weight: bold;
+    color: #000000;
+}
+
+div.transbox li{
+    font-weight: bold;
+    color: #000000;
+}
+/*Szerdai desszert*/
+
+
+
+.csutortok{
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle
+}
+
+.csmenu{
+    width: 100%;
+    background-color: rgb(226, 198, 137);
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+/*Csutortoki leves*/
+.csleves{
+    background-image: url(eperkremleves.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    margin: 0;
+    margin-bottom: 200px;
+}
+
+div.transbox{
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+    opacity: 0.6;
+}
+
+div.transbox h3{
+    margin: 10px;
+    font-weight: bold;
+    color: #000000;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 22pt;
+}
+
+div.transbox h4{
+    font-weight: bold;
+    color: #000000;
+    text-align: center;
+}
+
+div.transbox p{
+    margin: 10px;
+    font-weight: bold;
+    color: #000000;
+    text-decoration: underline;
+}
+
+div.transbox ul{
+    font-weight: bold;
+    color: #000000;
+}
+
+div.transbox ol{
+    font-weight: bold;
+    color: #000000;
+}
+
+div.transbox li{
+    font-weight: bold;
+    color: #000000;
+}
+/*Csutortoki leves*/
+
+/*Csutortoki foetel*/
+.csfoetel{
+    background-image: url(hentestokany.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: scroll;
+    background-repeat: no-repeat;   
+    margin: 0;
+    margin-bottom: 200px;
+    margin-top: 200px;
+}
+
+div.transbox{
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+    opacity: 0.6;
+}
+
+div.transbox h3{
+    margin: 10px;
+    font-weight: bold;
+    color: #000000;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 22pt;
+}
+
+div.transbox h4{
+    font-weight: bold;
+    color: #000000;
+    text-align: center;
+}
+
+div.transbox p{
+    margin: 10px;
+    font-weight: bold;
+    color: #000000;
+    text-decoration: underline;
+}
+
+div.transbox ul{
+    font-weight: bold;
+    color: #000000;
+}
+
+div.transbox ol{
+    font-weight: bold;
+    color: #000000;
+}
+
+div.transbox li{
+    font-weight: bold;
+    color: #000000;
+}
+/*Csutortoki foetel*/
+
+/*Csutortoki desszert*/
+.csdesszert{
+    background-image: url(tiramisu.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    margin: 0;
+}
+
+div.transbox{
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+    opacity: 0.6;
+}
+
+div.transbox h3{
+    margin: 10px;
+    font-weight: bold;
+    color: #000000;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 22pt;
+}
+
+div.transbox h4{
+    font-weight: bold;
+    color: #000000;
+    text-align: center;
+}
+
+div.transbox p{
+    margin: 10px;
+    font-weight: bold;
+    color: #000000;
+    text-decoration: underline;
+}
+
+div.transbox ul{
+    font-weight: bold;
+    color: #000000;
+}
+
+div.transbox ol{
+    font-weight: bold;
+    color: #000000;
+}
+
+div.transbox li{
+    font-weight: bold;
+    color: #000000;
+}
+/*Csutortoki desszert*/
+
+
+
+.pentek{
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle
+}
+
+.pmenu{
+    width: 100%;
+    background-color: rgb(226, 198, 137);
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+/*Penteki leves*/
+.pleves{
+    background-image: url(husleves.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    margin: 0;
+    margin-bottom: 200px;
+}
+
+div.transbox{
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+    opacity: 0.6;
+}
+
+div.transbox h3{
+    margin: 10px;
+    font-weight: bold;
+    color: #000000;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 22pt;
+}
+
+div.transbox h4{
+    font-weight: bold;
+    color: #000000;
+    text-align: center;
+}
+
+div.transbox p{
+    margin: 10px;
+    font-weight: bold;
+    color: #000000;
+    text-decoration: underline;
+}
+
+div.transbox ul{
+    font-weight: bold;
+    color: #000000;
+}
+
+div.transbox ol{
+    font-weight: bold;
+    color: #000000;
+}
+
+div.transbox li{
+    font-weight: bold;
+    color: #000000;
+}
+/*Penteki leves*/
+
+/*Penteki foetel*/
+.pfoetel{
+    background-image: url(rantott-csirkefalatok-krumplipurevel.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    margin: 0;
+    margin-bottom: 200px;
+}
+
+div.transbox{
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+    opacity: 0.6;
+}
+
+div.transbox h3{
+    margin: 10px;
+    font-weight: bold;
+    color: #000000;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 22pt;
+}
+
+div.transbox h4{
+    font-weight: bold;
+    color: #000000;
+    text-align: center;
+}
+
+div.transbox p{
+    margin: 10px;
+    font-weight: bold;
+    color: #000000;
+    text-decoration: underline;
+}
+
+div.transbox ul{
+    font-weight: bold;
+    color: #000000;
+}
+
+div.transbox ol{
+    font-weight: bold;
+    color: #000000;
+}
+
+div.transbox li{
+    font-weight: bold;
+    color: #000000;
+}
+/*Penteki foetel*/
+
+/*Penteki desszert*/
+.pdesszert{
+    background-image: url(sportszelet.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    margin: 0;
+}
+
+div.transbox{
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+    opacity: 0.6;
+}
+
+div.transbox h3{
+    margin: 10px;
+    font-weight: bold;
+    color: #000000;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 22pt;
+}
+
+div.transbox h4{
+    font-weight: bold;
+    color: #000000;
+    text-align: center;
+}
+
+div.transbox p{
+    margin: 10px;
+    font-weight: bold;
+    color: #000000;
+    text-decoration: underline;
+}
+
+div.transbox ul{
+    font-weight: bold;
+    color: #000000;
+}
+
+div.transbox ol{
+    font-weight: bold;
+    color: #000000;
+}
+
+div.transbox li{
+    font-weight: bold;
+    color: #000000;
+}
+/*Penteki desszert*/

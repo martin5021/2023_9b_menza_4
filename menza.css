@@ -55,7 +55,9 @@ hr{
 
 /*Pc navbar */
 
-
+a{
+    color: black;
+}
 
 .design{
     background-color: rgb(197, 179, 130);
@@ -91,7 +93,7 @@ hr{
     transition: 0.3s;
     width: 20%;
     border-radius: 10%;
-    margin-left: 190px;
+    margin-left: 210px;
     background-color: rgb(240, 222, 205);
 
     display: inline-block;
@@ -117,6 +119,7 @@ hr{
 .hleves:hover{
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
     transform: scale(1.05);
+    color: black;
 }
 
 .card1{
@@ -157,6 +160,7 @@ hr{
 .hfoetel:hover{
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
     transform: scale(1.05);
+    color: black;
 }
 
 .card2{
@@ -197,6 +201,7 @@ hr{
 .hdesszert:hover{
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
     transform: scale(1.05);
+    color: black;
 }
 
 .card3{
@@ -248,7 +253,8 @@ hr{
 
 .kleves:hover{
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
-    transform: scale(1.05);
+    transform: scale(1.05);    
+    color: black;
 }
 
 .card4{
@@ -289,6 +295,7 @@ hr{
 .kfoetel:hover{
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
     transform: scale(1.05);
+    color: black;
 }
 
 .card5{
@@ -329,6 +336,7 @@ hr{
 .kdesszert:hover{
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
     transform: scale(1.05);
+    color: black;
 }
 
 .card6{
@@ -381,6 +389,7 @@ hr{
 .szleves:hover{
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
     transform: scale(1.05);
+    color: black;
 }
 
 .card7{
@@ -421,6 +430,7 @@ hr{
 .szfoetel:hover{
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
     transform: scale(1.05);
+    color: black;
 }
 
 .card8{
@@ -461,6 +471,7 @@ hr{
 .szdesszert:hover{
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
     transform: scale(1.05);
+    color: black;
 }
 
 .card9{
@@ -514,6 +525,7 @@ hr{
 .csleves:hover{
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
     transform: scale(1.05);
+    color: black;
 }
 
 .card10{
@@ -554,6 +566,7 @@ hr{
 .csfoetel:hover{
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
     transform: scale(1.05);
+    color: black;
 }
 
 .card11{
@@ -594,6 +607,7 @@ hr{
 .csdesszert:hover{
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
     transform: scale(1.05);
+    color: black;
 }
 
 .card12{
@@ -648,6 +662,7 @@ hr{
 .pleves:hover{
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
     transform: scale(1.05);
+    color: black;
 }
 
 .card13{
@@ -688,6 +703,7 @@ hr{
 .pfoetel:hover{
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
     transform: scale(1.05);
+    color: black;
 }
 
 .card14{
@@ -728,6 +744,7 @@ hr{
 .pdesszert:hover{
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
     transform: scale(1.05);
+    color: black;
 }
 
 .card15{
