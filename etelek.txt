@@ -46,15 +46,17 @@ KEDD:
                             zeller
                             vöröshagyma
                             zöldborsó
-                            tárkony
+                            szariott tárkony
                             főzőtejszín
                             citromlé
                             csirkemellfilé
+                            fűszerpaprika
                             
 
     Főétel: Bácskai rizses hús
 
-                Hozzávalók: fűszerpaprika
+                Hozzávalók: 
+                
                             sertéshús (comb, lapocka vagy tarja)
                             rizs
                             vöröshagyma

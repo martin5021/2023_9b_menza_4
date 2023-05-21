@@ -1,0 +1,44 @@
+Fokhagymakrémleves:
+    cukormentes, tojásmentes; glutént, tejet, laktózt tartalmaz
+
+Kínai szezámmagos csirke:
+    cukrot tartalmaz, laktózmentes, glutént tartalmaz, tejmentes, tojást tartalmaz
+
+Muffin:
+    cukrot, laktózt, glutént, tejet, tojást tartalmaz
+
+Tárkonyos csirkeraguleves:
+    gluténmentes, tojásmentes; cukrot, laktózt tejet tartalmaz
+
+Bácskai rizses hús:
+    cukor, laktóz, glutén, tej- és tojásmentes
+
+Kókuszgolyó:
+    cukrot, laktózt, glutént, tejet és tojást tartalmaz
+
+Babgulyás:
+    cukor, laktóz, glutén, tej- és tojásmentes
+
+Mac and Cheese:
+    cukormentes, tojásmentes; glutént, tejet, laktózt tartalmaz
+
+Fánk:
+    cukrot, laktózt, glutént, tejet és tojást tartalmaz
+
+Eperkrémleves:
+    cukrot, laktózt tejet tartalmaz; glutén- és tojásmentes
+
+Hentes tokány:
+    cukor, laktóz, glutén, tej- és tojásmentes
+
+Tiramisu:
+    cukrot, laktózt, glutént, tejet és tojást tartalmaz
+
+Tyúkhúsleves:
+    cukor, laktóz, glutén, tej- és tojásmentes
+
+Rántott csirkemell, burgonya püré:
+    cukormentes, laktózt, glutént, tejet, tojást tartalmaz
+
+Sport szelet:
+    tojásmentes, cukrot, glutént, laktózt, tejet tartalmaz
