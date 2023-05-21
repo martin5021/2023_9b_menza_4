@@ -1,0 +1,744 @@
+
+body{
+    background-color: #eaeaea;
+    background-image: url(képek/34738269_2659143_15b83f9bdd92f6d22d03959e17f17915_wm.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    margin: 0;
+
+}
+header{
+    background-color: #937B63;
+    color: #eaeaea;
+}
+.center{
+    text-align: center;
+}
+h1{
+    padding-top: 1rem;
+
+}
+h2{
+    margin-top: 1rem;
+    margin-bottom: 0;
+
+}
+
+.cim{
+    margin-top: 20px;
+}
+
+#menzaskep{
+    width: 100%;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+hr{
+    margin-bottom: 0.2rem;
+}
+@media only screen and (min-width: 720px) {
+    #mobilnav {
+        display: none;
+    }
+}
+/*Pc navbar */
+@media only screen and (-width: 721px) {
+    li{
+        display: inline;
+        list-style: none;
+    }
+
+    
+}
+
+/*Pc navbar */
+
+.design{
+    background-color: rgb(197, 179, 130);
+}
+
+.sticky{
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.top-container{
+    margin-bottom: 20px;
+}
+
+.hetfo{
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+
+}
+
+.hmenu{
+    width: 100%;
+    background-color: rgba(219, 219, 226, 0.6);
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.hozzav{
+    float: right;    
+}
+
+.elkeszites{
+    float: right;
+    font-size: 12pt;
+}
+
+/*Hetfoi leves*/
+.hleves{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 20%;
+    border-radius: 10%;
+    margin-left: 190px;
+    background-color: rgb(240, 222, 205);
+
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+}
+
+.hleves img{
+    width: 90%;
+    border-radius: 180%;
+    margin-left: 5%;
+}
+
+.hleves h4{
+    text-align: center;
+}
+
+.hleves h3{
+    text-align: center;
+    font-size: 22pt;
+}
+
+.hleves:hover{
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    transform: scale(1.05);
+}
+
+.card1{
+    padding: 2px 16px;
+    width: 100%;
+}
+/*Hetfoi leves*/
+
+
+/*Hetfoi foetel*/
+.hfoetel{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 20%;
+    border-radius: 10%;
+    margin-left: 190px;
+    background-color: rgb(240, 222, 205);
+
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+}
+
+.hfoetel img{
+    width: 90%;
+    border-radius: 3%;
+    margin-left: 5%;
+}
+
+.hfoetel h4{
+    text-align: center;
+}
+
+.hfoetel h3{
+    text-align: center;
+    font-size: 22pt;
+}
+
+.hfoetel:hover{
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    transform: scale(1.05);
+}
+
+.card2{
+    padding: 2px 16px;
+}
+/*Hetfoi foetel*/
+
+
+/*Hetfoi desszert*/
+.hdesszert{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 20%;
+    border-radius: 10%;
+    margin-left: 190px;
+    background-color: rgb(240, 222, 205);
+
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+}
+
+.hdesszert img{
+    width: 90%;
+    border-radius: 3%;
+    margin-left: 5%;
+}
+
+.hdesszert h4{
+    text-align: center;
+}
+
+.hdesszert h3{
+    text-align: center;
+    font-size: 22pt;
+}
+
+.hdesszert:hover{
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    transform: scale(1.05);
+}
+
+.card3{
+    padding: 2px 16px;
+}
+/*Hetfoi desszert*/
+
+.kedd{
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+}
+
+.kmenu{
+    width: 100%;
+    background-color: rgba(219, 219, 226, 0.6);
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+/*Keddi leves*/
+.kleves{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 20%;
+    border-radius: 10%;
+    margin-left: 225px;
+    background-color: rgb(240, 222, 205);
+
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+}
+
+.kleves img{
+    width: 90%;
+    border-radius: 3%;
+    margin-left: 5%;
+}
+
+.kleves h4{
+    text-align: center;
+}
+
+.kleves h3{
+    text-align: center;
+    font-size: 22pt;
+}
+
+.kleves:hover{
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    transform: scale(1.05);
+}
+
+.card4{
+    padding: 2px 16px;
+}
+/*Keddi leves*/
+
+
+/*Keddi foetel*/
+.kfoetel{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 20%;
+    border-radius: 10%;
+    margin-left: 190px;
+    background-color: rgb(240, 222, 205);
+
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+}
+
+.kfoetel img{
+    width: 90%;
+    border-radius: 3%;
+    margin-left: 5%;
+}
+
+.kfoetel h4{
+    text-align: center;
+}
+
+.kfoetel h3{
+    text-align: center;
+    font-size: 22pt;
+}
+
+.kfoetel:hover{
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    transform: scale(1.05);
+}
+
+.card5{
+    padding: 2px 16px;
+}
+/*Keddi foetel*/
+
+
+/*Kdesszert*/
+.kdesszert{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 20%;
+    border-radius: 10%;
+    margin-left: 190px;
+    background-color: rgb(240, 222, 205);
+
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+}
+
+.kdesszert img{
+    width: 90%;
+    border-radius: 3%;
+    margin-left: 5%;
+}
+
+.kdesszert h4{
+    text-align: center;
+}
+
+.kdesszert h3{
+    text-align: center;
+    font-size: 22pt;
+}
+
+.kdesszert:hover{
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    transform: scale(1.05);
+}
+
+.card6{
+    padding: 2px 16px;
+}
+/*Kdesszert*/
+
+.szerda{
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+}
+
+.szmenu{
+    width: 100%;
+    background-color: rgba(219, 219, 226, 0.6);
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+/*Szerdai leves*/
+.szleves{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 20%;
+    border-radius: 10%;
+    margin-left: 190px;
+    background-color: rgb(240, 222, 205);
+
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+}
+
+.szleves img{
+    width: 90%;
+    border-radius: 3%;
+    margin-left: 5%;
+}
+
+.szleves h4{
+    text-align: center;
+}
+
+.szleves h3{
+    text-align: center;
+    font-size: 22pt;
+}
+
+.szleves:hover{
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    transform: scale(1.05);
+}
+
+.card7{
+    padding: 2px 16px;
+}
+/*Szerdai leves*/
+
+
+/*Szerdai foetel*/
+.szfoetel{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 20%;
+    border-radius: 10%;
+    margin-left: 190px;
+    background-color: rgb(240, 222, 205);
+
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+}
+
+.szfoetel img{
+    width: 90%;
+    border-radius: 3%;
+    margin-left: 5%;
+}
+
+.szfoetel h4{
+    text-align: center;
+}
+
+.szfoetel h3{
+    text-align: center;
+    font-size: 22pt;
+}
+
+.szfoetel:hover{
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    transform: scale(1.05);
+}
+
+.card8{
+    padding: 2px 16px;
+}
+/*Szerdai foetel*/
+
+
+/*Szerdai desszert*/
+.szdesszert{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 20%;
+    border-radius: 10%;
+    margin-left: 190px;
+    background-color: rgb(240, 222, 205);
+
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+}
+
+.szdesszert img{
+    width: 90%;
+    border-radius: 3%;
+    margin-left: 5%;
+}
+
+.szdesszert h4{
+    text-align: center;
+}
+
+.szdesszert h3{
+    text-align: center;
+    font-size: 22pt;
+}
+
+.szdesszert:hover{
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    transform: scale(1.05);
+}
+
+.card9{
+    padding: 2px 16px;
+}
+/*Szerdai desszert*/
+
+.csutortok{
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+    margin: 0;
+}
+
+.csmenu{
+    width: 100%;
+    background-color: rgba(219, 219, 226, 0.6);
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+/*Csutortoki leves*/
+.csleves{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 20%;
+    border-radius: 10%;
+    margin-left: 130px;
+    background-color: rgb(240, 222, 205);
+
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+}
+
+.csleves img{
+    width: 90%;
+    border-radius: 3%;
+    margin-left: 5%;
+}
+
+.csleves h4{
+    text-align: center;
+}
+
+.csleves h3{
+    text-align: center;
+    font-size: 22pt;
+}
+
+.csleves:hover{
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    transform: scale(1.05);
+}
+
+.card10{
+    padding: 2px 16px;
+}
+/*Csutortoki leves*/
+
+
+/*Csutortoki foetel*/
+.csfoetel{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 20%;
+    border-radius: 10%;
+    margin-left: 190px;
+    background-color: rgb(240, 222, 205);
+
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+}
+
+.csfoetel img{
+    width: 90%;
+    border-radius: 3%;
+    margin-left: 5%;
+}
+
+.csfoetel h4{
+    text-align: center;
+}
+
+.csfoetel h3{
+    text-align: center;
+    font-size: 22pt;
+}
+
+.csfoetel:hover{
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    transform: scale(1.05);
+}
+
+.card11{
+    padding: 2px 16px;
+}
+/*Csutortoki foetel*/
+
+
+/*Csutortoki desszert*/
+.csdesszert{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 20%;
+    border-radius: 10%;
+    margin-left: 200px;
+    background-color: rgb(240, 222, 205);
+
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+}
+
+.csdesszert img{
+    width: 90%;
+    border-radius: 3%;
+    margin-left: 5%;
+}
+
+.csdesszert h4{
+    text-align: center;
+}
+
+.csdesszert h3{
+    text-align: center;
+    font-size: 22pt;
+}
+
+.csdesszert:hover{
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    transform: scale(1.05);
+}
+
+.card12{
+    padding: 2px 16px;
+}
+/*Csutortoki desszert*/
+
+.pentek{
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+}
+
+.pmenu{
+    width: 100%;
+    background-color: rgba(219, 219, 226, 0.6);
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+/*Penteki leves*/
+.pleves{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 20%;
+    border-radius: 10%;
+    margin-left: 190px;
+    background-color: rgb(240, 222, 205);
+
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+}
+
+.pleves img{
+    width: 310px;
+    height: 240px;
+    border-radius: 3%;
+    margin-left: 5%;
+    
+}
+
+.pleves h4{
+    text-align: center;
+}
+
+.pleves h3{
+    text-align: center;
+    font-size: 22pt;
+}
+
+.pleves:hover{
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    transform: scale(1.05);
+}
+
+.card13{
+    padding: 2px 16px;
+}
+/*Penteki leves*/
+
+
+/*Penteki foetel*/
+.pfoetel{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 20%;
+    border-radius: 10%;
+    margin-left: 190px;
+    background-color: rgb(240, 222, 205);
+
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+}
+
+.pfoetel img{
+    width: 90%;
+    border-radius: 3%;
+    margin-left: 5%;
+}
+
+.pfoetel h4{
+    text-align: center;
+}
+
+.pfoetel h3{
+    text-align: center;
+    font-size: 22pt;
+}
+
+.pfoetel:hover{
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    transform: scale(1.05);
+}
+
+.card14{
+    padding: 2px 16px;
+}
+/*Penteki foetel*/
+
+
+/*Penteki desszert*/
+.pdesszert{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 20%;
+    border-radius: 10%;
+    margin-left: 200px;
+    background-color: rgb(240, 222, 205);
+
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+}
+
+.pdesszert img{
+    width: 90%;
+    border-radius: 3%;
+    margin-left: 5%;
+}
+
+.pdesszert h4{
+    text-align: center;
+}
+
+.pdesszert h3{
+    text-align: center;
+    font-size: 22pt;
+}
+
+.pdesszert:hover{
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    transform: scale(1.05);
+}
+
+.card15{
+    padding: 2px 16px;
+}
+/*Penteki desszert*/
