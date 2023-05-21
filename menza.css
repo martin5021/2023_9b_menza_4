@@ -25,6 +25,11 @@ h2{
     margin-bottom: 0;
 
 }
+
+.cim{
+    margin-top: 20px;
+}
+
 #menzaskep{
     width: 100%;
     border-bottom-left-radius: 20px;
@@ -51,12 +56,20 @@ hr{
 /*Pc navbar */
 
 
+
+.design{
+    background-color: rgb(197, 179, 130);
+}
+
 .sticky{
     position: fixed;
     top: 0;
     width: 100%;
 }
 
+.top-container{
+    margin-bottom: 20px;
+}
 
 .hetfo{
     display: inline-block;
@@ -210,7 +223,7 @@ hr{
     transition: 0.3s;
     width: 20%;
     border-radius: 10%;
-    margin-left: 190px;
+    margin-left: 225px;
     background-color: rgb(240, 222, 205);
 
     display: inline-block;
@@ -475,7 +488,7 @@ hr{
     transition: 0.3s;
     width: 20%;
     border-radius: 10%;
-    margin-left: 140px;
+    margin-left: 130px;
     background-color: rgb(240, 222, 205);
 
     display: inline-block;
@@ -616,9 +629,11 @@ hr{
 }
 
 .pleves img{
-    width: 90%;
+    width: 310px;
+    height: 240px;
     border-radius: 3%;
     margin-left: 5%;
+    
 }
 
 .pleves h4{
