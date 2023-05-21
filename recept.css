@@ -7,19 +7,26 @@ body{
     background-position: center;
     background-attachment: fixed;
     margin: 0;
-
 }
 header{
     background-color: #937B63;
     color: #eaeaea;
 }
+
+footer{
+    background-color: #937B63;
+    color: #eaeaea; 
+}
+
 .center{
     text-align: center;
 }
+
 h1{
     padding-top: 1rem;
 
 }
+
 h2{
     margin-top: 1rem;
     margin-bottom: 0;

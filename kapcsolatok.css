@@ -1,0 +1,201 @@
+
+body{
+    background-color: #eaeaea;
+    background-image: url(képek/34738269_2659143_15b83f9bdd92f6d22d03959e17f17915_wm.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    margin: 0;
+}
+
+header{
+    background-color: #937B63;
+    color: #eaeaea;
+}
+
+footer{
+    background-color: #937B63;
+    color: #eaeaea;
+}
+
+.center{
+    text-align: center;
+}
+
+h1{
+    padding-top: 1rem;
+
+}
+
+h2{
+    margin-top: 1rem;
+    margin-bottom: 0;
+
+}
+
+.cim{
+    margin-top: 20px;
+}
+
+#menzaskep{
+    width: 100%;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+hr{
+    margin-bottom: 0.2rem;
+}
+@media only screen and (min-width: 720px) {
+    #mobilnav {
+        display: none;
+    }
+}
+/*Pc navbar */
+@media only screen and (-width: 721px) {
+    li{
+        display: inline;
+        list-style: none;
+    }
+
+    
+}
+
+/*Pc navbar */
+
+a{
+    color: black;
+}
+
+.design{
+    background-color: rgb(197, 179, 130);
+}
+
+.sticky{
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.top-container{
+    margin-bottom: 20px;
+}
+
+
+.keszitok{
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+}
+
+.tagok{
+    width: 100%;
+    background-color: rgba(219, 219, 226, 0.6);
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+/*Imi*/
+.imi{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 20%;
+    height: 570px;
+    border-radius: 10%;
+    margin-left: 10px;
+    background-color: rgb(240, 222, 205);
+
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+}
+
+.imi img{
+    width: 90%;
+    border-radius: 50%;
+    margin-left: 5%;
+}
+
+.imi h4{
+    text-align: center;
+}
+
+.imi h3{
+    text-align: center;
+    font-size: 22pt;
+}
+
+.card1{
+    padding: 2px 16px;
+}
+/*Imi*/
+
+/*Martin*/
+.martin{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 20%;
+    height: 570px;
+    border-radius: 10%;
+    margin-left: 210px;
+    background-color: rgb(240, 222, 205);
+
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+}
+
+.martin img{
+    width: 90%;
+    border-radius: 50%;
+    margin-left: 5%;
+}
+
+.martin h4{
+    text-align: center;
+}
+
+.martin h3{
+    text-align: center;
+    font-size: 22pt;
+}
+
+.card2{
+    padding: 2px 16px;
+}
+/*Martin*/
+
+/*Gergo*/
+.gergo{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 20%;
+    height: 570px;
+    border-radius: 10%;
+    margin-left: 210px;
+    background-color: rgb(240, 222, 205);
+
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+}
+
+.gergo img{
+    width: 90%;
+    border-radius: 50%;
+    margin-left: 5%;
+}
+
+.gergo h4{
+    text-align: center;
+}
+
+.gergo h3{
+    text-align: center;
+    font-size: 22pt;
+}
+
+.card3{
+    padding: 2px 16px;
+}
+/*Gergo*/
