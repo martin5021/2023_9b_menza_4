@@ -79,7 +79,18 @@ nav{
     margin-bottom: 20px;
 }
 
+iframe{
+    border-radius: 10%;
+    width: 600px; 
+    height: 450px; 
+    border: 0;
+}
 
+.map{
+    margin-left: 35%;
+    margin-bottom: 0;
+    width: 100%;
+}
 
 .hetfo{
     display: inline-block;
