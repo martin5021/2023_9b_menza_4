@@ -67,8 +67,9 @@ a{
     color: black;
 }
 
-.design{
+nav{
     background-color: rgb(197, 179, 130);
+
 }
 
 .sticky{
@@ -85,7 +86,6 @@ a{
     display: inline-block;
     padding: 1rem 1rem;
     vertical-align: middle;
-
 }
 
 .hmenu{
