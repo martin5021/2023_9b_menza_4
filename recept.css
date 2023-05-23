@@ -54,6 +54,15 @@ h2{
     margin-bottom: 0;
 
 }
+h2 .hetfo, .kedd, .szerda, .csutortok, .pentek{
+    text-align: center;
+}
+#valaszto{
+    background-color: #937B63;
+    text-align: center;
+    height: 6rem;
+    margin-bottom: 100px;
+}
 
 .cim{
     margin-top: 30px;
@@ -122,9 +131,9 @@ iframe{
 
 .hmenu{
     width: 100%;
-    background-color: rgb(226, 198, 137);
+
     margin-top: 100px;
-    margin-bottom: 100px;
+
 }
 
 .kep{
@@ -258,7 +267,7 @@ div.transbox li{
     background-attachment: scroll;
     background-repeat: no-repeat;
 
-    margin-bottom: 200px;
+
     padding: 0;
     border-radius: 7%;
 }
@@ -318,7 +327,7 @@ div.transbox li{
 
 .kmenu{
     width: 100%;
-    background-color: rgb(226, 198, 137);
+
     margin-top: 100px;
     margin-bottom: 100px;
 }
@@ -507,7 +516,7 @@ div.transbox li{
 
 .szmenu{
     width: 100%;
-    background-color: rgb(226, 198, 137);
+
     margin-top: 100px;
     margin-bottom: 100px;
     border-radius: 7%;
@@ -695,7 +704,7 @@ div.transbox li{
 
 .csmenu{
     width: 100%;
-    background-color: rgb(226, 198, 137);
+
     margin-top: 100px;
     margin-bottom: 100px;
 }
@@ -709,7 +718,7 @@ div.transbox li{
     background-repeat: no-repeat;
     margin: 0;
     padding: 0;
-    margin-bottom: 200px;
+
     border-radius: 7%;
 }
 
@@ -882,7 +891,7 @@ div.transbox li{
 
 .pmenu{
     width: 100%;
-    background-color: rgb(226, 198, 137);
+
     margin-top: 100px;
     margin-bottom: 100px;
 }
