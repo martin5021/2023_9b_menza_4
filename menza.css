@@ -110,9 +110,7 @@ iframe{
 }
 
 .map{
-    margin-left: 35%;
     margin-bottom: 0;
-    width: 100%;
 }
 
 .hetfo{
@@ -139,6 +137,7 @@ iframe{
 
     display: inline-block;
     padding: 1rem 1rem;
+    margin-bottom: 5rem;
     vertical-align: middle;
 }
 
@@ -177,7 +176,7 @@ iframe{
     border-radius: 10%;
 
     background-color: rgb(240, 222, 205);
-
+    margin-bottom: 5rem;
     display: inline-block;
     padding: 1rem 1rem;
     vertical-align: middle;
@@ -218,7 +217,7 @@ iframe{
     border-radius: 10%;
 
     background-color: rgb(240, 222, 205);
-
+    margin-bottom: 5rem;
     display: inline-block;
     padding: 1rem 1rem;
     vertical-align: middle;
