@@ -118,7 +118,9 @@ iframe{
     padding: 1rem 1rem;
     vertical-align: middle;
 }
-
+.menusor{
+    z-index: 100;
+}
 .hmenu{
     width: 100%;
     background-color: rgba(219, 219, 226, 0.6);
