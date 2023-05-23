@@ -539,9 +539,9 @@ iframe{
 .csleves{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     transition: 0.3s;
-    width: 20%;
+
     border-radius: 10%;
-    margin-left: 130px;
+    margin-bottom: 5rem;
     background-color: rgb(240, 222, 205);
 
     display: inline-block;
@@ -580,9 +580,9 @@ iframe{
 .csfoetel{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     transition: 0.3s;
-    width: 20%;
+
     border-radius: 10%;
-    margin-left: 190px;
+    margin-bottom: 5rem;
     background-color: rgb(240, 222, 205);
 
     display: inline-block;
@@ -621,9 +621,9 @@ iframe{
 .csdesszert{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     transition: 0.3s;
-    width: 20%;
+    margin-bottom: 5rem;
     border-radius: 10%;
-    margin-left: 200px;
+
     background-color: rgb(240, 222, 205);
 
     display: inline-block;
@@ -674,9 +674,9 @@ iframe{
 .pleves{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     transition: 0.3s;
-    width: 20%;
+
     border-radius: 10%;
-    margin-left: 190px;
+    margin-bottom: 5rem;
     background-color: rgb(240, 222, 205);
 
     display: inline-block;
@@ -717,9 +717,9 @@ iframe{
 .pfoetel{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     transition: 0.3s;
-    width: 20%;
+
     border-radius: 10%;
-    margin-left: 190px;
+    margin-bottom: 5rem;
     background-color: rgb(240, 222, 205);
 
     display: inline-block;
@@ -758,9 +758,9 @@ iframe{
 .pdesszert{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     transition: 0.3s;
-    width: 20%;
+
     border-radius: 10%;
-    margin-left: 200px;
+    margin-bottom: 5rem;
     background-color: rgb(240, 222, 205);
 
     display: inline-block;
