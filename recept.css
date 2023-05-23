@@ -84,12 +84,16 @@ iframe{
     width: 600px; 
     height: 450px; 
     border: 0;
+    
 }
 
 .map{
-    margin-left: 35%;
     margin-bottom: 0;
-    width: 100%;
+
+}
+@media only screen and (min-width:960px){
+
+
 }
 
 .hetfo{
