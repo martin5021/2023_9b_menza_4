@@ -8,6 +8,26 @@ body{
     background-attachment: fixed;
     margin: 0;
 }
+
+::-webkit-scrollbar {
+    width: 12px;
+  }
+  
+ 
+  ::-webkit-scrollbar-track {
+    display: none;
+  }
+  
+
+  ::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 5px;
+  }
+  
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
 header{
     background-color: #937B63;
     color: #eaeaea;
