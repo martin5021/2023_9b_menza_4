@@ -1,4 +1,6 @@
-
+*{
+    box-sizing: border-box;
+}
 body{
     background-color: #eaeaea;
     background-image: url(képek/34738269_2659143_15b83f9bdd92f6d22d03959e17f17915_wm.jpg);
@@ -138,12 +140,17 @@ iframe{
     background-repeat: no-repeat;
     margin: 0;
     margin-bottom: 200px;
+    padding: 0;
+border-radius: 7%;
 }
 
 div.transbox{
     background-color: rgb(255, 255, 255);
     border: 1px solid black;
     opacity: 0.6;
+    width: 100%;
+    border-radius: 7%;
+
 }
 
 div.transbox h3{
@@ -191,14 +198,18 @@ div.transbox li{
     background-position: center;
     background-attachment: scroll;
     background-repeat: no-repeat;
-    margin: 0;
+
     margin-bottom: 200px;
+    padding: 0;
+    border-radius: 7%;
 }
 
 div.transbox{
     background-color: rgb(255, 255, 255);
     border: 1px solid black;
     opacity: 0.6;
+    border-radius: 7%;
+    width: 100%;
 }
 
 div.transbox h3{
@@ -246,13 +257,17 @@ div.transbox li{
     background-position: center;
     background-attachment: scroll;
     background-repeat: no-repeat;
-    margin: 0;
+
+    margin-bottom: 200px;
+    padding: 0;
+    border-radius: 7%;
 }
 
 div.transbox{
     background-color: rgb(255, 255, 255);
     border: 1px solid black;
     opacity: 0.6;
+    border-radius: 7%;
 }
 
 div.transbox h3{
@@ -316,13 +331,16 @@ div.transbox li{
     background-attachment: scroll;
     background-repeat: no-repeat;
     margin: 0;
+    padding: 0;
     margin-bottom: 200px;
+    border-radius: 7%;
 }
 
 div.transbox{
     background-color: rgb(255, 255, 255);
     border: 1px solid black;
     opacity: 0.6;
+    border-radius: 7%;
 }
 
 div.transbox h3{
@@ -371,13 +389,16 @@ div.transbox li{
     background-attachment: scroll;
     background-repeat: no-repeat;
     margin: 0;
+    padding: 0;
     margin-bottom: 200px;
+    border-radius: 7%;
 }
 
 div.transbox{
     background-color: rgb(255, 255, 255);
     border: 1px solid black;
     opacity: 0.6;
+    border-radius: 7%;
 }
 
 div.transbox h3{
@@ -426,12 +447,15 @@ div.transbox li{
     background-attachment: scroll;
     background-repeat: no-repeat;
     margin: 0;
+    padding: 0;
+    border-radius: 7%;
 }
 
 div.transbox{
     background-color: rgb(255, 255, 255);
     border: 1px solid black;
     opacity: 0.6;
+    border-radius: 7%;
 }
 
 div.transbox h3{
@@ -477,7 +501,8 @@ div.transbox li{
 .szerda{
     display: inline-block;
     padding: 1rem 1rem;
-    vertical-align: middle
+    vertical-align: middle;
+    border-radius: 7%;
 }
 
 .szmenu{
@@ -485,6 +510,7 @@ div.transbox li{
     background-color: rgb(226, 198, 137);
     margin-top: 100px;
     margin-bottom: 100px;
+    border-radius: 7%;
 }
 
 /*Szerdai leves*/
@@ -495,13 +521,16 @@ div.transbox li{
     background-attachment: scroll;
     background-repeat: no-repeat;
     margin: 0;
+    padding: 0;
     margin-bottom: 200px;
+    border-radius: 7%;
 }
 
 div.transbox{
     background-color: rgb(255, 255, 255);
     border: 1px solid black;
     opacity: 0.6;
+    border-radius: 7%;
 }
 
 div.transbox h3{
@@ -550,7 +579,9 @@ div.transbox li{
     background-attachment: scroll;
     background-repeat: no-repeat;
     margin: 0;
+    padding: 0;
     margin-bottom: 200px;
+    border-radius: 7%;
 }
 
 div.transbox{
@@ -605,6 +636,8 @@ div.transbox li{
     background-attachment: scroll;
     background-repeat: no-repeat;
     margin: 0;
+    padding: 0;
+    border-radius: 7%;
 }
 
 div.transbox{
@@ -656,7 +689,8 @@ div.transbox li{
 .csutortok{
     display: inline-block;
     padding: 1rem 1rem;
-    vertical-align: middle
+    vertical-align: middle;
+    border-radius: 7%;
 }
 
 .csmenu{
@@ -674,7 +708,9 @@ div.transbox li{
     background-attachment: scroll;
     background-repeat: no-repeat;
     margin: 0;
+    padding: 0;
     margin-bottom: 200px;
+    border-radius: 7%;
 }
 
 div.transbox{
@@ -729,8 +765,10 @@ div.transbox li{
     background-attachment: scroll;
     background-repeat: no-repeat;   
     margin: 0;
+    padding: 0;
     margin-bottom: 200px;
     margin-top: 200px;
+    border-radius: 7%;
 }
 
 div.transbox{
@@ -785,6 +823,8 @@ div.transbox li{
     background-attachment: scroll;
     background-repeat: no-repeat;
     margin: 0;
+    padding: 0;
+    border-radius: 7%;
 }
 
 div.transbox{
@@ -836,7 +876,8 @@ div.transbox li{
 .pentek{
     display: inline-block;
     padding: 1rem 1rem;
-    vertical-align: middle
+    vertical-align: middle;
+    border-radius: 7%;
 }
 
 .pmenu{
@@ -854,7 +895,9 @@ div.transbox li{
     background-attachment: scroll;
     background-repeat: no-repeat;
     margin: 0;
+    padding: 0;
     margin-bottom: 200px;
+    border-radius: 7%;
 }
 
 div.transbox{
@@ -909,7 +952,9 @@ div.transbox li{
     background-attachment: scroll;
     background-repeat: no-repeat;
     margin: 0;
+    padding: 0;
     margin-bottom: 200px;
+    border-radius: 7%;
 }
 
 div.transbox{
@@ -964,6 +1009,8 @@ div.transbox li{
     background-attachment: scroll;
     background-repeat: no-repeat;
     margin: 0;
+    padding: 0;
+    border-radius: 7%;
 }
 
 div.transbox{
