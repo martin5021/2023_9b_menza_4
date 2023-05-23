@@ -685,11 +685,11 @@ iframe{
 }
 
 .pleves img{
-    width: 310px;
-    height: 240px;
     border-radius: 3%;
     margin-left: 5%;
-    
+    width: 90%;
+
+
 }
 
 .pleves h4{
@@ -758,7 +758,7 @@ iframe{
 .pdesszert{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     transition: 0.3s;
-
+    width: 100%;
     border-radius: 10%;
     margin-bottom: 5rem;
     background-color: rgb(240, 222, 205);
