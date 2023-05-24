@@ -145,8 +145,13 @@ iframe{
     margin-bottom: 5px;
 
 }
+
 td{
     width: 8rem;
+
+}
+li{
+    margin-left: 1rem;
 }
 
 /*Hetfoi leves*/
