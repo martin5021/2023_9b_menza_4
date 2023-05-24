@@ -200,6 +200,11 @@ padding: 0;
 
 }
 
+.lstn{
+    list-style-type: none;
+    padding-left: 50px;
+}
+
 /*Hetfoi leves*/
 .hleves{
     background-image: url(fokhagymakremleves.jpg);
@@ -243,6 +248,7 @@ div.transbox p{
     font-weight: bold;
     color: #000000;
     text-decoration: underline;
+    padding-left: 5px;
 }
 
 div.transbox ul{
