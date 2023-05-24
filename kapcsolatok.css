@@ -1,4 +1,6 @@
-
+*{
+    scroll-behavior: smooth;
+}
 body{
     background-color: #eaeaea;
     background-image: url(képek/34738269_2659143_15b83f9bdd92f6d22d03959e17f17915_wm.jpg);
