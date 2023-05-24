@@ -36,20 +36,29 @@ header{
 }
 
 .mlogo{
-    margin-top: 60px;
-    margin-left: 60px;
+
     height: 200px;
-    width: 201px;
+
+}
+.mcmenza{
+    margin-top: 1.2rem;
 }
 
 .szlogo{
     border-radius: 50%;
-    height: 210px;
-    width: 210px;
+    height: 12.5rem;
+    width: 12.5rem;
     float: right;
-    margin-right: 60px;
-    margin-top: 60px;
+
     border: 1px solid white;
+}
+@media only screen and (max-width: 992px){
+    .logo{
+        display: none;
+    }
+}
+hr{
+    margin-top: 0;
 }
 
 nav{
@@ -75,9 +84,12 @@ footer{
 }
 
 .vissza{
-    color: #000000;
+    color: #eaeaea;
     text-decoration: none;
-    padding-left: 333px;
+    text-align: center;
+    font-size: 1.5rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
 }
 
 .center{

@@ -1,6 +1,32 @@
 *{
     box-sizing: border-box;
 }
+.mlogo{
+
+    height: 200px;
+
+}
+.mcmenza{
+    margin-top: 1.2rem;
+}
+
+.szlogo{
+    border-radius: 50%;
+    height: 12.5rem;
+    width: 12.5rem;
+    float: right;
+
+    border: 1px solid white;
+}
+@media only screen and (max-width: 992px){
+    .logo{
+        display: none;
+    }
+}
+hr{
+    margin-top: 0;
+}
+
 body{
     background-color: #eaeaea;
     background-image: url(képek/34738269_2659143_15b83f9bdd92f6d22d03959e17f17915_wm.jpg);
@@ -32,23 +58,6 @@ body{
 header{
     background-color: #937B63;
     color: #eaeaea;
-}
-
-.mlogo{
-    margin-top: 60px;
-    margin-left: 60px;
-    height: 200px;
-    width: 201px;
-}
-
-.szlogo{
-    border-radius: 50%;
-    height: 210px;
-    width: 210px;
-    float: right;
-    margin-right: 60px;
-    margin-top: 60px;
-    border: 1px solid white;
 }
 
 nav{
