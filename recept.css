@@ -145,7 +145,32 @@ iframe{
     margin-bottom: 5px;
 
 }
-
+.kiskep2{
+    width: 2rem;
+    margin-bottom: 5px;
+    margin-right: 1rem;
+}
+#elerhetosegek{
+    margin-bottom: 1rem;
+    margin-top: 3rem;
+}
+.elerhetoseg{
+    font-size: 1.5rem;
+}
+@media only screen and (min-width: 992px){
+#lathatatlan{
+    display: none;
+}
+}
+@media only screen and (max-width: 576px){
+    .elerhetoseg{
+        font-size: 1rem;
+    }
+    #elerhetosegek{
+        margin-bottom: 1rem;
+        margin-top: 1rem;
+    }
+}
 td{
     width: 8rem;
 
