@@ -269,3 +269,11 @@ iframe{
 .martin, .imi, .gergo{
     margin-bottom: 5rem;
 }
+.vissza{
+    color: #eaeaea;
+    text-decoration: none;
+    text-align: center;
+    font-size: 1.5rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}

@@ -857,3 +857,11 @@ iframe{
     padding: 2px 16px;
 }
 /*Penteki desszert*/
+.vissza{
+    color: #eaeaea;
+    text-decoration: none;
+    text-align: center;
+    font-size: 1.5rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
