@@ -8,7 +8,9 @@ body{
     background-attachment: fixed;
     margin: 0;
 }
-
+.menusor{
+    z-index: 100;
+}
 header{
     background-color: #937B63;
     color: #eaeaea;
@@ -101,7 +103,7 @@ iframe{
 }
 
 .tagok{
-    width: 100%;
+
     background-color: rgba(219, 219, 226, 0.6);
     margin-top: 100px;
     margin-bottom: 100px;
@@ -111,10 +113,10 @@ iframe{
 .imi{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     transition: 0.3s;
-    width: 20%;
-    height: 570px;
+
+
     border-radius: 10%;
-    margin-left: 10px;
+
     background-color: rgb(240, 222, 205);
 
     display: inline-block;
@@ -146,10 +148,10 @@ iframe{
 .martin{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     transition: 0.3s;
-    width: 20%;
-    height: 570px;
+
+
     border-radius: 10%;
-    margin-left: 210px;
+
     background-color: rgb(240, 222, 205);
 
     display: inline-block;
@@ -181,10 +183,10 @@ iframe{
 .gergo{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     transition: 0.3s;
-    width: 20%;
-    height: 570px;
+
+
     border-radius: 10%;
-    margin-left: 210px;
+
     background-color: rgb(240, 222, 205);
 
     display: inline-block;
@@ -211,3 +213,27 @@ iframe{
     padding: 2px 16px;
 }
 /*Gergo*/
+.kiskep{
+    width: 2rem;
+    margin-bottom: 5px;
+    margin-right: 1rem;
+}
+#elerhetosegek{
+    margin-bottom: 1rem;
+    margin-top: 3rem;
+}
+.elerhetoseg{
+    font-size: 1.5rem;
+}
+
+@media only screen and (max-width: 576px){
+    .elerhetoseg{
+        font-size: 1rem;
+    }
+    #elerhetosegek{
+        margin-bottom: 1rem;
+        margin-top: 1rem;
+    }
+
+
+}
