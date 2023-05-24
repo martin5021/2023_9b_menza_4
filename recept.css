@@ -171,12 +171,15 @@ iframe{
         margin-top: 1rem;
     }
 }
+ul{
+    list-style-type:none;
+}
 td{
-    width: 8rem;
+
 
 }
 li{
-    margin-left: 1rem;
+
 }
 
 /*Hetfoi leves*/
