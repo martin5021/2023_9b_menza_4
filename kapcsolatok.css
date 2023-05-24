@@ -91,9 +91,9 @@ iframe{
 }
 
 .map{
-    margin-left: 35%;
+
     margin-bottom: 0;
-    width: 100%;
+
 }
 
 .keszitok{
@@ -236,4 +236,12 @@ iframe{
     }
 
 
+}
+@media only screen and (max-width: 576px){
+    #lathatatlan{
+        display: none;
+    }
+}
+.martin, .imi, .gergo{
+    margin-bottom: 5rem;
 }
