@@ -74,6 +74,12 @@ footer{
     color: #eaeaea; 
 }
 
+.vissza{
+    color: #000000;
+    text-decoration: none;
+    padding-left: 333px;
+}
+
 .center{
     text-align: center;
 }
@@ -88,9 +94,11 @@ h2{
     margin-bottom: 0;
 
 }
+
 h2 .hetfo, .kedd, .szerda, .csutortok, .pentek{
     text-align: center;
 }
+
 #valaszto{
     background-color: #937B63;
     text-align: center;
@@ -98,18 +106,16 @@ h2 .hetfo, .kedd, .szerda, .csutortok, .pentek{
     margin-bottom: 100px;
 }
 
-.cim{
-    margin-top: 30px;
+#cim{
+    margin-top: 20px;
+    font-size: 25pt;
 }
 
-#menzaskep{
-    width: 100%;
-    border-bottom-left-radius: 20px;
-    border-bottom-right-radius: 20px;
-}
 hr{
+    background-color: whitesmoke;
     margin-bottom: 0.2rem;
 }
+
 @media only screen and (min-width: 720px) {
     #mobilnav {
         display: none;
