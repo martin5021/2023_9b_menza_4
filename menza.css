@@ -51,6 +51,22 @@ header{
     border: 1px solid white;
 }
 
+nav{
+    background-color: rgb(197, 179, 130);
+}
+
+.dropdown-menu{
+    background-color: rgb(197, 179, 130);
+}
+
+.dropdown-item{
+    color: whitesmoke;
+}
+
+.dropdown-item:hover{
+    background-color: whitesmoke;
+}
+
 footer{
     background-color: #937B63;
     color: #eaeaea;
@@ -129,11 +145,6 @@ hr{
 }
 a{
     color: black;
-}
-
-nav{
-    background-color: rgb(197, 179, 130);
-
 }
 
 .sticky{
