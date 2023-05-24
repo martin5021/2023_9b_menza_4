@@ -172,13 +172,14 @@ iframe{
     }
 }
 ul{
+    margin-left: 2rem;
+    padding: 0.4rem;
+}
+li.typenone{
     list-style-type:none;
 }
-td{
-
-
-}
 li{
+padding: 0;
 
 }
 
