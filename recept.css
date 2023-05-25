@@ -81,7 +81,7 @@ nav{
 
 footer{
     background-color: #937B63;
-    color: #eaeaea; 
+    color: #eaeaea;
 }
 
 .vissza{
@@ -147,6 +147,10 @@ hr{
 /*Pc navbar */
 .menusor{
     z-index: 100;
+}
+
+a{
+    color: black;
 }
 
 .sticky{
