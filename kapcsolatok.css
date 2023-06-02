@@ -40,8 +40,11 @@ header{
         display: none;
     }
 }
+
 hr{
-    margin-top: 0;
+    background-color: whitesmoke;
+    margin-bottom: 0;
+    margin-top: -20px;
 }
 
 nav{
@@ -71,11 +74,6 @@ h2{
 #cim{
     margin-top: 20px;
     font-size: 25pt;
-}
-
-hr{
-    background-color: whitesmoke;
-    margin-bottom: 0.2rem;
 }
 
 @media only screen and (min-width: 720px) {
