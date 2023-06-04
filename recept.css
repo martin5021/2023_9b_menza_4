@@ -1113,11 +1113,20 @@ div.transbox li{
     color: #000000;
 }
 /*Penteki desszert*/
-.forrasok{
+.vissza{
+    color: #eaeaea;
+    text-decoration: none;
     text-align: center;
     font-size: 1.5rem;
 }
-
+p{
+    margin: 0
+}
+.forrasok{
+    text-align: center;
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+}
 /*logo*/
 .logo{
     position: relative;
@@ -1155,7 +1164,7 @@ div.transbox li{
     background-color: rgb(197, 179, 130);
     color: #eaeaea;
     font-size: 15pt;
-    width: 190px;
+    width: 150px;
     height: 30px;
 }
 /*logo*/

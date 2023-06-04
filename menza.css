@@ -861,12 +861,14 @@ iframe{
     text-decoration: none;
     text-align: center;
     font-size: 1.5rem;
-    padding-left: 2rem;
-    padding-right: 2rem;
+}
+p{
+    margin: 0
 }
 .forrasok{
     text-align: center;
     font-size: 1.5rem;
+    margin-bottom: 2rem;
 }
 
 /*logo*/
@@ -906,7 +908,7 @@ iframe{
     background-color: rgb(197, 179, 130);
     color: #eaeaea;
     font-size: 15pt;
-    width: 190px;
+    width: 150px;
     height: 30px;
 }
 /*logo*/
